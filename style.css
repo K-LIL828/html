@@ -1,0 +1,29 @@
+#blue-bordered {
+    border: 5px dashed blue;
+}
+.box p {
+    color: red;
+}  
+article > h1 + p {
+    font-weight: bold;
+    background-color: #333;
+    color: #FFBF00;
+    padding: .5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}   
+/* Any button over which the user's pointer is hovering */
+button:hover {
+    color: rgb(0, 255, 0);
+  }
+  ol li{
+    color: rgb(252, 23, 240);
+  }
+  p {
+    display: inline;
+  }
+  .test {
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+    display: inline-block;
+  }
